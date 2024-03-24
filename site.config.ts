@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '章鱼吃鱼吐刺',
+  domain: 'https://www.notion.so/Getting-Started-ba3dad5d1369435d9867e1d79751fe02',
+  author: 'BugYuyu',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
